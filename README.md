@@ -1,4 +1,8 @@
 # Informe Empresa de Auditoría Fintech
+Integrante
+- Benjamín Jiménez
+- Andres Salinas
+- Benjamín Donoso
 
 # -- Descripción --
 # Este proyecto consiste en un sistema de auditoría diseñado para procesar y almacenar transacciones de pago de una empresa de tecnología financiera (Fintech).
