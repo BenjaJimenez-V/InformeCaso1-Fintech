@@ -7,7 +7,7 @@
 
 # -- Arquitectura seleccionada: Lakehouse --
 # ¿Por qué?
-# Gracias a su capacidad de manejar transacciones ACID y asegurar inmutabilidad en lo registros, ayuda a evitar datos corruptos durante ka ingesta masiva a traves de metadatos.
+# Gracias a su capacidad de manejar transacciones ACID y asegurar inmutabilidad en lo registros, ayuda a evitar datos corruptos durante la ingesta masiva a traves de metadatos.
 
 # -- Requisitos y Configuración del Entorno Técnico --
 # Git: Control de versiones del código.
