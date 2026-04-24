@@ -1,5 +1,5 @@
 # Informe Empresa de Auditoría Fintech
-Integrante
+Integrantes
 - Benjamín Jiménez
 - Andres Salinas
 - Benjamín Donoso
